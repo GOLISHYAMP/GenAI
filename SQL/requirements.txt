@@ -1,0 +1,8 @@
+transformers
+torch
+openai
+fastapi
+uvicorn
+#  mysql-connector-python 
+psycopg2
+#  docker
